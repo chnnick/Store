@@ -2,4 +2,6 @@
 
 For use by CutByTheKid
 
+Uses MongoDB, ExpressJS, React, Node
+
 Currently IP.
